@@ -1,6 +1,6 @@
 
 # MCT PISOS
-## creado por santiago claro agudelo, miguel angel balndon zuluaga, tomas santiago gomez sarmiento 
+## Creado por Santiago Claro Agudelo, Miguel Angel Blandon Zuluaga, TOMAS SANTIAGO GOMÉZ SARMIENTO 
 nuestro negocio vende tenis de alta calidad de tipo running , casuales , futbol , entrenamiento , tenis de cancha y senderismo y nuestros productos el precio se diferencia por los materiales , diseño , resistencia y el tipo de uso y los medios de pago que nuestro negocio maneja
 son efectivo , tarjeta solamente estos 2
 
