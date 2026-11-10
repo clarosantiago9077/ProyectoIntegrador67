@@ -45,3 +45,7 @@ son efectivo , tarjeta solamente estos 2
 | Composición | `Venta` ◆— `ItemVenta` (1 a muchos) |
 | Asociación | `Venta` → `Cliente`, `Venta` → `MedioPago`, `ItemVenta` → `Tenis` |
 | Colecciones | `Catalogo` tiene muchos `Tenis` y `Cliente`; `GestorVentas` tiene muchas `Venta` |
+
+## UML Diagrama
+<img width="1642" height="2389" alt="UML_MCT" src="https://github.com/user-attachments/assets/f2b5cdfe-ef8b-4ce4-bb11-af7bcd0a069c" />
+
