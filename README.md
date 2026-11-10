@@ -47,5 +47,6 @@ son efectivo , tarjeta solamente estos 2
 | Colecciones | `Catalogo` tiene muchos `Tenis` y `Cliente`; `GestorVentas` tiene muchas `Venta` |
 
 ## UML Diagrama
-<img width="1642" height="2389" alt="UML_MCT" src="https://github.com/user-attachments/assets/f2b5cdfe-ef8b-4ce4-bb11-af7bcd0a069c" />
+<img width="1462" height="1765" alt="oe" src="https://github.com/user-attachments/assets/a1efa47d-37e4-427b-9b61-1a3305cf4fd2" />
+
 
